@@ -14,8 +14,7 @@ If you use any source codes, or datasets included in this repo in your work, ple
 <pre>
 @article{herrlein2024anhalten,
   title={ANHALTEN: Cross-Lingual Transfer for German Token-Level Reference-Free Hallucination Detection},
-  author={Herrlein, Janek and Hung, Chia-Chien and Glava{\v{s}}, Goran
-},
+  author={Herrlein, Janek and Hung, Chia-Chien and Glava{\v{s}}, Goran},
   journal={arXiv preprint arXiv:2407.13702},
   year={2024}
 }
