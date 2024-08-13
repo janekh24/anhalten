@@ -2,7 +2,7 @@
 
 Authors: Janek Herrlein, Chia-Chien Hung, Goran Glavaš 
 
-ACL 2024. SRW: https://arxiv.org/pdf/2407.13702
+ACL 2024. SRW: [https://aclanthology.org/2024.acl-srw.18](https://aclanthology.org/2024.acl-srw.18)
 
 ## Introduction
 
@@ -12,13 +12,21 @@ Research on token-level reference-free hallucination detection has predominantly
 ## Citation
 If you use any source codes, or datasets included in this repo in your work, please cite the following paper:
 <pre>
-@article{herrlein2024anhalten,
-  title={ANHALTEN: Cross-Lingual Transfer for German Token-Level Reference-Free Hallucination Detection},
-  author={Herrlein, Janek and Hung, Chia-Chien and Glava{\v{s}}, Goran},
-  journal={arXiv preprint arXiv:2407.13702},
-  year={2024}
+@inproceedings{herrlein-etal-2024-anhalten,
+    title = "{ANHALTEN}: Cross-Lingual Transfer for {G}erman Token-Level Reference-Free Hallucination Detection",
+    author = "Herrlein, Janek  and
+      Hung, Chia-Chien  and
+      Glava{\v{s}}, Goran",
+    booktitle = "Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (Volume 4: Student Research Workshop)",
+    month = aug,
+    year = "2024",
+    address = "Bangkok, Thailand",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2024.acl-srw.18",
+    pages = "186--194"
 }
 </pre>
+
 
 
 ## Pretrained Models
